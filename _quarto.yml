@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Carpentries-Israel"
-  favicon: img/il.jpg
+  favicon: img/carpentries_il_logo.jpeg
   navbar:
     left:
       - href: index.qmd
