@@ -1,5 +1,5 @@
 ---
-title: "![](img/il.jpg){width=50} Carpentries-Israel"
+title: "![](img/carpentries_il_logo.jpeg){width=50} Carpentries-Israel"
 ---
 
 **Carpentries-Israel** is an unofficial, local interest group for students and researchers in Israel who are interested in attending [Carpentries](carpentries.org) workshops, learning how to become a Carpentries instructor, or writing or contributing to Carpentries lesson materials!
