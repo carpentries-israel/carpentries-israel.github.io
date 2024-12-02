@@ -12,6 +12,8 @@ How to connect and join:
 
 -   Join the carpentries-israel.slack.com #Slack workspace using [this link](https://join.slack.com/t/carpentries-israel/shared_invite/zt-2uu39vo5i-5MqBVAv3mf_h1n~_xLQxCA)
 
+-   Join the [Carpentries-Israel LinkedIn group](https://www.linkedin.com/groups/13126506/){target="_blank"}
+
 -   Fill out our [expression of interest form](https://forms.gle/tEtkFrugxrEng7Ss7){target="_blank"} to be contacted about future workshops
 
 ![Data Carpentry Genomics workshop, October 2024](img/DataCarpentryIsrael-Weizmann_Oct2024.jpg)
