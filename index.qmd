@@ -6,7 +6,11 @@ title: "![](img/carpentries_il_logo.jpeg){width=50} Carpentries-Israel"
 
 Workshop events we've held so far:
 
--   [Data Carpentry Genomics, 29-31 October 2024](https://carpentries-israel.github.io/2024-10-29-wis){target="_blank"}
+-   [Data Carpentry Genomics, 29-31 October 2024](https://carpentries-israel.github.io/2024-10-29-wis){target="_blank"} at Weizmann Institute of Science
+
+Upcoming workshops:
+
+-   [Data Carpentry Genomics, 22-23 October 2025](https://carpentries-israel.github.io/2025-10-22-tau){target="_blank"} at Tel Aviv University
 
 How to connect and join:
 
